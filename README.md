@@ -1,6 +1,6 @@
 # Test Driven Development
 
-As the number of devices increase in our surroundings that use software, it is becoming inevitable for someone to avoid interacting with software. Therefore, it is slowly becoming the moral responsibility of a software developer to test every line of code they write. 
+As the number of devices increase in our surroundings that use software, it is becoming inevitable for someone to avoid interacting with code. Therefore, it is slowly becoming a moral responsibility of a software developer to test every line of code they write. 
 
 Test-Driven Development (TDD) is a software development methodology that emphasizes writing tests before writing the actual code. This approach follows a "Red-Green-Refactor" cycle, where:
 
